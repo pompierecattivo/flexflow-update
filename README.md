@@ -4,6 +4,9 @@
 
 > 🔄 L’applicazione agisce come un **assistente digitale operativo**, utile sia per checklist cicliche, attivazioni reattive che per eventi eccezionali.
 
+
+[LINK COVERTITORE DA DROPBOX] (https://pompierecattivo.github.io/flexflow-update/) *******
+
 ---
 
 ## 🚀 Funzionalità principali
